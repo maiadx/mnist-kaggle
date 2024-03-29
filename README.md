@@ -4,6 +4,6 @@
 
 Expansions from tutorial:
 
-- normalization
+- addition of multiple hidden layers
 - hyperparameter tuning of alpha values during training
-- addition of multi-layer architecture to improve accuracy
+- normalization
