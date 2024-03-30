@@ -8,7 +8,7 @@ Expansions from tutorial:
 - normalization
 
 
-Prediction accuracy is 0.9
+Prediction accuracy is 0.973
 in Kaggle Competition: https://www.kaggle.com/competitions/digit-recognizer/
 
 Link to Zhang's tutorial: https://youtu.be/w8yWXqWQYmU?si=AF7peo52QGfBtVyY
